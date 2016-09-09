@@ -1,0 +1,9 @@
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\RockPaperScissor.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\mscorlib.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\System.Core.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\System.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\System.Xml.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Vivek\Documents\Visual Studio 2015\Projects\RockPaperScissor\RockPaperScissor\obj\Release\android\assets\System.ServiceModel.Internals.dll

@@ -1,0 +1,4 @@
+RockPaperScissor.MainActivity, RockPaperScissor;md5a9fa9c3b5e2ba779331929bb35840b1f.MainActivity
+RockPaperScissor.MainActivity, RockPaperScissor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a9fa9c3b5e2ba779331929bb35840b1f.MainActivity
+RockPaperScissor.MainActivity;md5a9fa9c3b5e2ba779331929bb35840b1f.MainActivity
+rockpaperscissor.MainActivity;md5a9fa9c3b5e2ba779331929bb35840b1f.MainActivity
